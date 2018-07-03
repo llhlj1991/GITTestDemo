@@ -17,7 +17,11 @@
 		A45998B320EB84FA00DCEAC0 /* EmptyDemoUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = A45998B220EB84FA00DCEAC0 /* EmptyDemoUITests.m */; };
 		A45998C220EB865F00DCEAC0 /* DEV1.m in Sources */ = {isa = PBXBuildFile; fileRef = A45998C120EB865F00DCEAC0 /* DEV1.m */; };
 		A45998C820EB883600DCEAC0 /* DEV12.m in Sources */ = {isa = PBXBuildFile; fileRef = A45998C720EB883600DCEAC0 /* DEV12.m */; };
+<<<<<<< HEAD
 		A45998CE20EB8B5E00DCEAC0 /* Master1.m in Sources */ = {isa = PBXBuildFile; fileRef = A45998CD20EB8B5E00DCEAC0 /* Master1.m */; };
+=======
+		A45998CB20EB893B00DCEAC0 /* DEV13.m in Sources */ = {isa = PBXBuildFile; fileRef = A45998CA20EB893B00DCEAC0 /* DEV13.m */; };
+>>>>>>> origin/dev
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -58,8 +62,13 @@
 		A45998C120EB865F00DCEAC0 /* DEV1.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DEV1.m; sourceTree = "<group>"; };
 		A45998C620EB883600DCEAC0 /* DEV12.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DEV12.h; sourceTree = "<group>"; };
 		A45998C720EB883600DCEAC0 /* DEV12.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DEV12.m; sourceTree = "<group>"; };
+<<<<<<< HEAD
 		A45998CC20EB8B5E00DCEAC0 /* Master1.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Master1.h; sourceTree = "<group>"; };
 		A45998CD20EB8B5E00DCEAC0 /* Master1.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Master1.m; sourceTree = "<group>"; };
+=======
+		A45998C920EB893B00DCEAC0 /* DEV13.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DEV13.h; sourceTree = "<group>"; };
+		A45998CA20EB893B00DCEAC0 /* DEV13.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DEV13.m; sourceTree = "<group>"; };
+>>>>>>> origin/dev
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -123,8 +132,13 @@
 				A45998C120EB865F00DCEAC0 /* DEV1.m */,
 				A45998C620EB883600DCEAC0 /* DEV12.h */,
 				A45998C720EB883600DCEAC0 /* DEV12.m */,
+<<<<<<< HEAD
 				A45998CC20EB8B5E00DCEAC0 /* Master1.h */,
 				A45998CD20EB8B5E00DCEAC0 /* Master1.m */,
+=======
+				A45998C920EB893B00DCEAC0 /* DEV13.h */,
+				A45998CA20EB893B00DCEAC0 /* DEV13.m */,
+>>>>>>> origin/dev
 			);
 			path = EmptyDemo;
 			sourceTree = "<group>";
@@ -281,6 +295,7 @@
 				A45998CE20EB8B5E00DCEAC0 /* Master1.m in Sources */,
 				A45998C820EB883600DCEAC0 /* DEV12.m in Sources */,
 				A45998C220EB865F00DCEAC0 /* DEV1.m in Sources */,
+				A45998CB20EB893B00DCEAC0 /* DEV13.m in Sources */,
 				A459989E20EB84FA00DCEAC0 /* main.m in Sources */,
 				A459989020EB84F700DCEAC0 /* AppDelegate.m in Sources */,
 			);
